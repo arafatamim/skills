@@ -22,7 +22,7 @@ Each skill is a self-contained directory:
 
 | Skill | Description |
 |---|---|
-| [`bd-shopping`](bd-shopping/SKILL.md) | Research any purchase for a buyer in Bangladesh — pins requirements, shortlists from independent evidence, verifies BDT prices/stock at local retailers, checks warranty & authenticity, computes landed cost for imports, returns a buy/wait/skip verdict. Category playbooks for electronics, appliances, clothing, beauty, groceries, furniture, books, and medicines. |
+| [`bd-shopping`](bd-shopping/SKILL.md) | Research any purchase for a buyer in Bangladesh — pins requirements, shortlists from independent evidence, verifies BDT prices/stock at local retailers, checks warranty & authenticity, computes landed cost for imports, returns a buy/wait/skip verdict. Category playbooks (15) for electronics, appliances, clothing, beauty, groceries, furniture, books, medicines, power backup, supplements, baby, jewellery, vehicles, and connectivity. Current version: 2.0.0. |
 
 ## Usage
 
