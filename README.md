@@ -23,6 +23,7 @@ Each skill is a self-contained directory:
 | Skill | Description |
 |---|---|
 | [`bd-shopping`](bd-shopping/SKILL.md) | Research any purchase for a buyer in Bangladesh — pins requirements, shortlists from independent evidence, verifies BDT prices/stock at local retailers, checks warranty & authenticity, computes landed cost for imports, returns a buy/wait/skip verdict. Category playbooks (15) for electronics, appliances, clothing, beauty, groceries, furniture, books, medicines, power backup, supplements, baby, jewellery, vehicles, and connectivity. Current version: 2.0.0. |
+| [`material-3-expressive`](material-3-expressive/SKILL.md) | Design, build, or review Material 3 Expressive UI (Compose-first) — a ten-step design process with an emphasis ladder, critique rubric and screen recipes, plus references for color roles, dynamic color, typography, shape and morphing, elevation, icons, spring motion and transitions, components, adaptive layout and spacing, checked against m3.material.io and material3 1.5.0-beta01. Current version: 1.0.0. |
 
 ## Usage
 
